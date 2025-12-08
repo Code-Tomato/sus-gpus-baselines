@@ -1,0 +1,12 @@
+[submodule "ParvaGPU_SC24"]
+	path = ParvaGPU_SC24
+	url = git@github.com:Code-Tomato/ParvaGPU_SC24.git
+[submodule "UsherRemake"]
+	path = UsherRemake
+	url = git@github.com:Code-Tomato/UsherRemake.git
+[submodule "glet"]
+	path = glet
+	url = git@github.com:Code-Tomato/glet.git
+[submodule "fgd"]
+	path = fgd
+	url = git@github.com:Code-Tomato/fgd.git
