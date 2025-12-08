@@ -7,7 +7,7 @@ This repository contains baseline implementations and experiments for sus-gpus.
 To clone this repository with all submodules:
 
 ```bash
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules https://github.com/Code-Tomato/sus-gpus-baselines.git
 ```
 
 If you've already cloned the repository without submodules:
